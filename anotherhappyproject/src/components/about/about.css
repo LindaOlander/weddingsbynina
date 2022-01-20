@@ -1,0 +1,9 @@
+.about {
+    padding: 25px;
+}
+
+@media screen and (min-width: 668px) {
+    .about {
+        padding: 25px 450px 25px 25px;
+    }
+}
