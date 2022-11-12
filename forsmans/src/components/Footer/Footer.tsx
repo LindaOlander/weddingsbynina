@@ -12,7 +12,7 @@ const Footer = () => {
             <div className="details">
                 <a className="link" href="https://goo.gl/maps/GF3sjUB9n6Y43bJh7" target="_blank" style={{color: '#ffffff'}}><p>Hitta hit</p></a>
                 <a className="link" href="https://goo.gl/maps/GF3sjUB9n6Y43bJh7" target="_blank" style={{color: '#ffffff'}}><p>Öppettider</p></a>
-                <p>Fullständiga rättigheter</p>
+                <p>Fullständiga rättigheter.</p>
             </div>
         </section>
         </>
