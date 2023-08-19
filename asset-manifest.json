@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/weddingsbynina/static/css/main.cf2ace13.css",
-    "main.js": "/weddingsbynina/static/js/main.19b8c9ed.js",
+    "main.css": "/weddingsbynina/static/css/main.d5c9e3a5.css",
+    "main.js": "/weddingsbynina/static/js/main.f9b30700.js",
     "static/js/787.e3c7739f.chunk.js": "/weddingsbynina/static/js/787.e3c7739f.chunk.js",
     "index.html": "/weddingsbynina/index.html",
-    "main.cf2ace13.css.map": "/weddingsbynina/static/css/main.cf2ace13.css.map",
-    "main.19b8c9ed.js.map": "/weddingsbynina/static/js/main.19b8c9ed.js.map",
+    "main.d5c9e3a5.css.map": "/weddingsbynina/static/css/main.d5c9e3a5.css.map",
+    "main.f9b30700.js.map": "/weddingsbynina/static/js/main.f9b30700.js.map",
     "787.e3c7739f.chunk.js.map": "/weddingsbynina/static/js/787.e3c7739f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf2ace13.css",
-    "static/js/main.19b8c9ed.js"
+    "static/css/main.d5c9e3a5.css",
+    "static/js/main.f9b30700.js"
   ]
 }
