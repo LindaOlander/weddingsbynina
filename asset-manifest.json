@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/weddingsbynina/static/css/main.c60d7caa.css",
-    "main.js": "/weddingsbynina/static/js/main.2deadb2d.js",
+    "main.css": "/weddingsbynina/static/css/main.b9ef58b8.css",
+    "main.js": "/weddingsbynina/static/js/main.64ca3c53.js",
     "static/js/787.e3c7739f.chunk.js": "/weddingsbynina/static/js/787.e3c7739f.chunk.js",
     "static/media/kollage.png": "/weddingsbynina/static/media/kollage.4faf9a9d50136ee1c0e4.png",
     "static/media/brollop5.png": "/weddingsbynina/static/media/brollop5.6d535149cc276af744dc.png",
@@ -9,12 +9,12 @@
     "static/media/brollop7.png": "/weddingsbynina/static/media/brollop7.85c47436936f8c654a52.png",
     "static/media/nina1.png": "/weddingsbynina/static/media/nina1.9bccf49822bd3923a32b.png",
     "index.html": "/weddingsbynina/index.html",
-    "main.c60d7caa.css.map": "/weddingsbynina/static/css/main.c60d7caa.css.map",
-    "main.2deadb2d.js.map": "/weddingsbynina/static/js/main.2deadb2d.js.map",
+    "main.b9ef58b8.css.map": "/weddingsbynina/static/css/main.b9ef58b8.css.map",
+    "main.64ca3c53.js.map": "/weddingsbynina/static/js/main.64ca3c53.js.map",
     "787.e3c7739f.chunk.js.map": "/weddingsbynina/static/js/787.e3c7739f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c60d7caa.css",
-    "static/js/main.2deadb2d.js"
+    "static/css/main.b9ef58b8.css",
+    "static/js/main.64ca3c53.js"
   ]
 }
